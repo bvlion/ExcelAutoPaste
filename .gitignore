@@ -1,0 +1,10 @@
+**/*.opt
+**/*.clw
+**/*.ncb
+**/*.aps
+**/*.mak
+**/*.suo
+**/*.pdb
+**/*.vcproj.*
+**/Debug
+**/Release
